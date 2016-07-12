@@ -1,0 +1,10 @@
+--MORE LIKE MY NOTE TOSELF --
+** first time usng MongoDB and Mongoose with NodeJS **
+
+so, what I did was the following....
+
+1. starting with making sure mongod.exe (server) is running and mongo.exe is on ( nothing to do with it really? )
+2. create folder somewhere make sure you have server.js, views, static (same thing all the time)
+3. see server.js for all the code
+4. making sure everything runs property in node.js (i like using nodemon)
+5. you should be good to go :) 
